@@ -4,7 +4,7 @@
     "rank" : 0
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Mod Menus",
     "rank" : 1
   },
   {
@@ -12,7 +12,11 @@
     "rank" : 2
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Tweaks / Tools",
     "rank" : 3
   },
+  {
+    "name" : "Cosmetic",
+    "rank" : 4
 ]
+
