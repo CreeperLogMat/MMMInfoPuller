@@ -34,49 +34,13 @@
     "version": "1.1.4",
     "git_path": "BzzzThe18th/HoneyLib",
     "group": "Libraries",
-    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/download/1.1.4/HoneyLib.dll"
+    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
   },
   {
-    "name": "Newtonsoft.JSON",
-    "author": "James Newton-King",
-    "version": "12.0.3",
-    "git_path": "legoandmars/Newtonsoft.Json",
+    "name": "II's Stupid Menu",
+    "author": "iiDk_the_actual",
+    "version": "https://api.github.com/repos/iiDk-the-actual/iis.Stupid.Menu/releases/latest",
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Newtonsoft.Json/releases/download/12.0.3/Newtonsoft.Json-12.0.3.zip"
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu"
   },
-  {
-    "name": "TMPLoader",
-    "author": "ahauntedarmy",
-    "version": "1.0.2",
-    "git_path": "AHauntedArmy/TMPLoader",
-    "group": "Libraries",
-    "download_url": "https://github.com/AHauntedArmy/TMPLoader/releases/download/1.0.2/TMPLoader-v1.0.2.zip"
-  },
-  {
-    "name": "Tic Tac Toe",
-    "author": "Husky",
-    "version": "1.0.3",
-    "dependencies": [
-      "Utilla"
-    ],
-    "git_path": "HuskyGT/TicTacToe",
-    "group": "Gameplay",
-    "download_url": "https://github.com/HuskyGT/TicTacToe/releases/download/1.0.3/TicTacToe.dll"
-  },
-  {
-    "name": "Utilla",
-    "author": "bobbievr",
-    "version": "1.6.14",
-    "git_path": "legoandmars/Utilla",
-    "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.14/Utilla.zip"
-  },
-  {
-    "name": "bHaptics",
-    "author": "Florian Fahrenberger",
-    "version": "3.0.1",
-    "git_path": "floh-bhaptics/GorillaTag_bhaptics",
-    "group": "Tweaks / Tools",
-    "download_url": "https://github.com/floh-bhaptics/GorillaTag_bhaptics/releases/download/v3.0.1/GorillaTag_bhaptics.zip"
-  }
-]
