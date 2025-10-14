@@ -8,40 +8,11 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/latest/download/BepInEx_win_x64_5.4.23.4.zip"
   },
   {
-    "name": "Bepinject",
-    "author": "Auros",
-    "version": "version",
-    "dependencies": [
-      "Extenject"
-    ],
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Bepinject-Auros.zip"
-  },
-  {
-    "name": "Extenject",
-    "author": "svermeulen",
-    "version": "version",
-    "install_location": "BepInEx/plugins",
-    "git_path": "Auros/Bepinject",
-    "group": "Libraries",
-    "download_url": "https://github.com/Auros/Bepinject/releases/latest/download/Extenject.zip"
-  },
-  {
-    "name": "HoneyLib",
-    "author": "buzzbb",
-    "version": "version",
-    "git_path": "BzzzThe18th/HoneyLib",
-    "group": "Libraries",
-    "download_url": "https://github.com/BzzzThe18th/HoneyLib/releases/latest/download/HoneyLib.dll"
-  },
-  {
     "name": "II's Stupid Menu",
     "author": "iiDk_the_actual",
     "version": "version",
     "install_location": "BepInEx/plugins",
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
-    "group": "Libraries",
+    "group": "Tweaks / Tools",
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu"
   },
