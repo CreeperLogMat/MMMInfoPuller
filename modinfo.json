@@ -11,8 +11,7 @@
     "name": "II's Stupid Menu",
     "author": "iiDk_the_actual",
     "version": "version",
-    "install_location": "BepInEx/plugins",
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Tweaks / Tools",
-    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu"
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu.dll"
   },
