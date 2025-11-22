@@ -4,21 +4,26 @@
     "rank" : 0
   },
   {
-    "name" : "Mod Menus",
+    "name" : "Libraries"
     "rank" : 1
   },
   {
-    "name" : "Gameplay",
+    "name" : "Mod Menus",
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Gameplay",
     "rank" : 3
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Tweaks / Tools",
     "rank" : 4
   },
+  {
+    "name" : "Cosmetic",
+    "rank" : 5
+  },
 ]
+
 
 
