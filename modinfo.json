@@ -2,7 +2,7 @@
   {
     "name": "BepInEx",
     "author": "BepInEx Team",
-    "version": "5.4.23.4",
+    "version": "version",
     "git_path": "BepInEx/BepInEx",
     "group": "Core",
     "download_url": "https://github.com/BepInEx/BepInEx/releases/latest/download/BepInEx_win_x64_5.4.23.4.zip"
@@ -10,15 +10,15 @@
   {
     "name": "Utilla",
     "author": "Dane",
-    "version": "Working",
+    "version": "version",
     "git_path": "developer9998/Utilla",
-    "group": "Libraries",
+    "group": "Core",
     "download_url": "https://github.com/developer9998/Utilla/releases/latest/download/Utilla.dll"
   },
   {
     "name": "II's Stupid Menu",
     "author": "iiDk",
-    "version": "Working",
+    "version": "version",
     "git_path": "iiDk-the-actual/iis.Stupid.Menu",
     "group": "Mod Menus",
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/latest/download/iis_Stupid_Menu.dll"
@@ -26,7 +26,7 @@
   {
     "name": "Forever Cosmetx",
     "author": "iiDk",
-    "version": "Working?",
+    "version": "version",
     "git_path": "iiDk-the-actual/ForeverCosmetx",
     "group": "Cosmetic",
     "download_url": "https://github.com/iiDk-the-actual/ForeverCosmetx/releases/latest/download/ForeverCosmetx.dll"
